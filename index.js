@@ -1,8 +1,6 @@
 // add solution here
-function theBeatlesPlay(musicians, instruments){
-  var emptyarray = []
-  musicians = []
-  instruments = []
+function theBeatlesPlay(musicians=['Conor Oberst', 'Phoebe Bridgers'], instruments = ['guitar', 'drums']){
   
+  var emptyarray = []
   
 }
