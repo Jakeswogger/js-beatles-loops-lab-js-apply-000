@@ -4,6 +4,6 @@ function theBeatlesPlay(musicians=['Conor Oberst', 'Phoebe Bridgers'], instrumen
   var emptyarray = []
   
   for(var i = 0; i < 3; I++){
-    emptyarray.
+    emptyarray[]
   }
 }
